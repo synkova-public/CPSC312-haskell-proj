@@ -2,7 +2,7 @@
 Contributors: Aiden Synkova, Sveta Sodol, Robert Desjardins
 </p>Course: CPSC 312 2017W1 offering
 ******************************************************************************************************************************************
-</p> Project Overview:
+Project Overview:
 </p>Our goal was to make a version of Conway's Game of Life. We created an implementation with different starting states for the user to use it, while also aiming to make it a robust version because we are using user inputs to set specific parameters, and we did not want it to be easily corrupted by a person playing it.
 
 </p>The universe of the Game of Life is an infinite two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, alive or dead, or "populated" or "unpopulated". Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
