@@ -1,6 +1,6 @@
 # CPSC312-haskell-proj
 Contributors: Aiden Synkova, Sveta Sodol, Robert Desjardins
-Course: CPSC 312 2017W1 offering
+</p>Course: CPSC 312 2017W1 offering
 ******************************************************************************************************************************************
 </p> Project Overview:
 </p>Our goal was to make a version of Conway's Game of Life. We created an implementation with different starting states for the user to use it, while also aiming to make it a robust version because we are using user inputs to set specific parameters, and we did not want it to be easily corrupted by a person playing it.
