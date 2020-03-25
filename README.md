@@ -1,5 +1,5 @@
 # CPSC312-haskell-proj
-Contributors: Aiden Synkova, Sveta Sodol, Robert Desjardins
+Contributors: Phoenix Synkova, Sveta Sodol, Robert Desjardins
 </p>Course: CPSC 312 2017W1
 
 </p>Project Overview:
